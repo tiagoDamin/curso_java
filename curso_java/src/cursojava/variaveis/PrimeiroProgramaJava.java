@@ -1,4 +1,4 @@
-package cursojava.executavel;
+package cursojava.variaveis;
 
 public class PrimeiroProgramaJava {
 
