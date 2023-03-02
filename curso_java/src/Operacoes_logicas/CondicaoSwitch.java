@@ -12,6 +12,8 @@ public class CondicaoSwitch {
 		
 		media = (nota1 + nota2 + nota3 + nota4) /4;
 		
+		System.out.println(media);
+		
 //		Switch case: Operações exatas
 		
 		int dia = 5;
