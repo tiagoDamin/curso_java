@@ -3,6 +3,7 @@ package orientacao_objeto;
 //Está é nossa classe/objeto que representa o aluno
 public class Aluno {	
 	
+	// Esses são os atributos do aluno
 	String nome;
 	int idade;
 	String dataNacimento;

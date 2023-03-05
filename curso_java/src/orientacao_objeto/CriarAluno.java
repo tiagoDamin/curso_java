@@ -5,6 +5,7 @@ public class CriarAluno {
 	public static void main(String[] args) {
 		
 		// New Aluno() é uma instancia (Criação de objeto)
+		// aluno1 é uma referencia para o objeto Aluno
 		Aluno aluno1 = new Aluno(); // Aqui seráo João
 				
 		Aluno aluno2 = new Aluno(); // Aqui será o Pedro
