@@ -1,4 +1,4 @@
-package cursojava.variaveis;
+package variaveis;
 
 public class VariavelGlobalLocal {
 	

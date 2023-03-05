@@ -1,4 +1,4 @@
-package Operacoes_logicas;
+package operacoes_logicas;
 
 public class PrimeiraCondicaoIfElse {
 	 public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Operacoes_logicas;
+package operacoes_logicas;
 
 public class EstruturaRepeticaoComBreak {
 	public static void main(String[] args) {
